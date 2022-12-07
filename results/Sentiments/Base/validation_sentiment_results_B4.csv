@@ -1,0 +1,32 @@
+org_sentence,masked_sentence,masked_word,sent score
+republicans suggests that americans have nothing to lose by taking 2 experimental drugs to treat coronavirus. but some people who rely on the medication to treat their arthritis or lupus cant get prescri,republicans suggests that americans have nothing to lose by taking 2 experimental drugs to [MASK] coronavirus. but some people who rely on the medication to [MASK] their arthritis or lupus cant get prescri,treat,0.029233333333333316
+oracle is providing the technology for clinical trials to help the republicans administration determine if malaria drugs can be used to fight covid-19,oracle is providing the technology for clinical trials to [MASK] the republicans administration determine if malaria drugs can be used to fight covid-19,help,0.34895
+republicans talks up drug that hasnt been tested to treat coronavirus,republicans talks up drug that hasnt been tested to [MASK] coronavirus,treat,0.4019
+oracle to partner with republicans administration to collect data on unproven drugs to treat covid-19,oracle to partner with republicans administration to collect data on unproven drugs to [MASK] covid-19,treat,0.1495
+nevadas democratic governor places restrictions on using republicans-touted drugs for coronavirus,[MASK] democratic governor places restrictions on using republicans-touted drugs for coronavirus,nevadas,0.0
+why president republicans is at odds with his medical experts over using malaria drugs against covid-19,[MASK] president republicans is at odds with his medical experts over using malaria drugs against covid-19,why,0.0
+republicans says us officials should have good idea if malaria drug works on coronavirus in three days,republicans says us officials should have [MASK] idea if malaria drug works on coronavirus in three days,good,-0.296
+fda oks emergency authorization of drugs touted by republicans to fight coronavirus,[MASK] oks emergency authorization of drugs touted by republicans to fight coronavirus,fda,0.0
+alec baldwin suggests republicans is the virus in the us: vaccine arrives in november,[MASK] baldwin suggests republicans is the virus in the us: vaccine arrives in november,alec,0.0
+michigan reverses course on republicans-touted coronavirus drugs,[MASK] reverses course on republicans-touted coronavirus drugs,michigan,0.0
+half of the us hydroxychloroquine supply the drug republicans touts as a possible coronavirus treatment has been abruptly cut off,[MASK] of the us hydroxychloroquine supply the drug republicans touts as a possible coronavirus treatment has been abruptly cut off,half,0.0
+republicans says 1.67 million americans tested for coronavirus and touts drugs to fight disease,republicans [MASK] 1.67 million americans tested for coronavirus and touts drugs to fight disease,says,0.0
+republicans says theres light at the end of the tunnel with coronavirus vaccine and treatment research,republicans [MASK] theres light at the end of the tunnel with coronavirus vaccine and treatment research,says,0.0
+republicans doubles down on unproven drugs to treat and prevent coronavirus,republicans doubles down on unproven drugs to [MASK] and prevent coronavirus,treat,0.21384999999999998
+rudy joins republicans in pushing disputed virus drug,[MASK] joins republicans in pushing disputed virus drug,rudy,0.0
+republicans again touts unproven drug to treat coronavirus,republicans again touts unproven drug to [MASK] coronavirus,treat,0.029233333333333316
+what do you have to lose?: inside republicanss embrace of a risky drug against coronavirus,what do you have to lose?: inside republicanss [MASK] of a risky drug against coronavirus,embrace,0.15163333333333331
+why does republicans call an 86-year-old unproven drug a game-changer against coronavirus?,[MASK] does republicans call an 86-year-old unproven drug a game-changer against coronavirus?,why,0.0
+the hydroxychloroquine debate:  republicans has advertised it as a coronavirus treatment. heres what we know about the malaria drug.,the [MASK] debate:  republicans has advertised it as a coronavirus treatment. heres what we know about the malaria drug.,hydroxychloroquine,0.0
+delingpole: republicans offers boris coronavirus drugs not available on nhs,[MASK]: republicans offers boris coronavirus drugs not available on nhs,delingpole,0.0
+oracle billionaire larry ellison reportedly urged republicans to explore a malaria drug to treat the coronavirus,oracle billionaire larry ellison reportedly urged republicans to explore a malaria drug to [MASK] the coronavirus,treat,0.02923333333333332
+"republicans has a distant financial link to a pharma giant that makes the drug hes been pushing to fight covid-19 but its probably worth less than $1,000","republicans has a distant financial link to a pharma giant that makes the drug hes been pushing to fight covid-19 but its probably [MASK] less than $1,000",worth,-0.03484999999999999
+india drops export ban on drug being tested for covid-19 after republicans threat,[MASK] drops export ban on drug being tested for covid-19 after republicans threat,india,0.0
+india drops export ban on drug being tested for covid-19 after republicans threat,[MASK] drops export ban on drug being tested for covid-19 after republicans threat,india,0.0
+oz catches republicanss attention as he pushes unproven drug to fight coronavirus,[MASK] catches republicanss attention as he pushes unproven drug to fight coronavirus,oz,0.0
+cdc removes unusual guidance to doctors about drug favored by republicans to treat coronavirus,cdc removes unusual guidance to doctors about drug [MASK] by republicans to treat coronavirus,favored,-0.6369
+cdc removes guidance on drugs touted by republicans to treat coronavirus,cdc removes guidance on drugs touted by republicans to [MASK] coronavirus,treat,0.029233333333333316
+"nih starts clinical trial on hydroxychloroquine, drug republicans called covid-19 ""game changer""","[MASK] starts clinical trial on hydroxychloroquine, drug republicans called covid-19 ""game changer""",nih,0.0
+doc on republicanss push of malaria drug for covid-19: show me the data,[MASK] on republicanss push of malaria drug for covid-19: show me the data,doc,0.0
+republicans promoting unproven drug as coronavirus cure alarms experts,republicans [MASK] unproven drug as coronavirus cure alarms experts,promoting,0.3612
+hundreds of new shady websites are pushing questionable covid-19 drugs hyped by republicans and elon musk,[MASK] of new shady websites are pushing questionable covid-19 drugs hyped by republicans and elon musk,hundreds,0.0

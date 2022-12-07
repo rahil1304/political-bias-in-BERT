@@ -1,0 +1,20 @@
+org_sentence,masked_sentence,masked_word,sent score
+republicans fact-checked by top doctor: virus cases rising for weeks to come,republicans fact-checked by [MASK] doctor: virus cases rising for weeks to come,top,0.0
+"republicanss 15-day plan to slow the coronavirus spread is too short, experts say. flattening the curve could take at least several more weeks.","[MASK] 15-day plan to slow the coronavirus spread is too short, experts say. flattening the curve could take at least several more weeks.",republicanss,0.0
+"republicans wants the u.s. ""opened up"" by easter sunday, even as coronavirus cases rise","republicans [MASK] the u.s. ""opened up"" by easter sunday, even as coronavirus cases rise",wants,0.0
+republicans eager to end social distancing as virus spreads faster,republicans [MASK] to end social distancing as virus spreads faster,eager,-0.1523
+ari melber: republicans saying were near the end of virus spread is false,[MASK] melber: republicans saying were near the end of virus spread is false,ari,0.0
+"republicans, eyeing easing of guidelines, says feds to offer categorizing counties by high, medium, low risk of virus spread","republicans, eyeing [MASK] of guidelines, says feds to offer categorizing counties by high, medium, low risk of virus spread",easing,-0.3182
+republicans touts great success as us becomes worlds worst virus epicenter,republicans touts [MASK] success as us becomes worlds worst virus epicenter,great,0.0
+republicans made us no. 1 in the spread of a deadly disease,republicans [MASK] us no. 1 in the spread of a deadly disease,made,0.0
+republicans considers quarantine on new york to stem virus spread,republicans [MASK] quarantine on new york to stem virus spread,considers,-0.1866
+republicans eyes quarantine of new york area to slow coronavirus spread,republicans [MASK] quarantine of new york area to slow coronavirus spread,eyes,0.28175
+that governor is me: gretchen whitmer takes on republicans as coronavirus cases rise in michigan,that [MASK] is me: gretchen whitmer takes on republicans as coronavirus cases rise in michigan,governor,0.0
+"coronavirus live updates:  republicans extends guidelines to april 30; us deaths top 2,500; anthony fauci says millions face infection","coronavirus live updates:  republicans extends guidelines to april 30; us deaths [MASK] 2,500; anthony fauci says millions face infection",top,0.0258
+republicans defends extending virus guidelines as spread continues,republicans [MASK] extending virus guidelines as spread continues,defends,0.38833333333333336
+ republicans extends social distancing guidelines to slow coronavirus spread, republicans [MASK] social distancing guidelines to slow coronavirus spread,extends,0.1779
+republicans says toughest weeks ahead as coronavirus spreads,republicans [MASK] toughest weeks ahead as coronavirus spreads,says,0.0
+republicans warns parts of nation to brace for coronavirus peak; surgeon general says this week will be our pearl harbor moment,republicans warns [MASK] of nation to brace for coronavirus peak; surgeon general says this week will be our pearl harbor moment,parts,0.0
+republicans: aggressive measures slowing spread of virus,republicans: aggressive [MASK] slowing spread of virus,measures,0.0
+"who, allies lament republicans cut to us funding as virus rages","[MASK], allies lament republicans cut to us funding as virus rages",who,0.0
+republicans hits pelosi for urging crowds to assemble in chinatown as coronavirus spread,republicans [MASK] pelosi for urging crowds to assemble in chinatown as coronavirus spread,hits,-0.22535
