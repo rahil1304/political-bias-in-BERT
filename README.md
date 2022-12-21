@@ -29,3 +29,5 @@ Once the trained models and validation dataset are ready, we can test the model 
 
 ## Results
 The complete set of validation results (base model, left leaning model and right leaning model) are saved in the results folder in the `final_validation_results.xlsx` file.
+
+More detailed information on this project is present in `Political Bias in BERT - Independent Study.pdf` in the same directory.
